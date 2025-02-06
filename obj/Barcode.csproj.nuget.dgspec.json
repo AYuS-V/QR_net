@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aayush.vadiya\\Desktop\\Mess\\Musibat\\Dotnet_OR_Generator\\Barcode.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aayush.vadiya\\Desktop\\Mess\\Musibat\\Dotnet_OR_Generator\\Barcode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aayush.vadiya\\Desktop\\Mess\\Musibat\\Dotnet_OR_Generator\\Barcode.csproj",
+        "projectName": "Barcode",
+        "projectPath": "C:\\Users\\aayush.vadiya\\Desktop\\Mess\\Musibat\\Dotnet_OR_Generator\\Barcode.csproj",
+        "packagesPath": "C:\\Users\\aayush.vadiya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aayush.vadiya\\Desktop\\Mess\\Musibat\\Dotnet_OR_Generator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aayush.vadiya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\aayush.vadiya\\Needed\\dotnet-sdk-7.0.410-win-x64\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
